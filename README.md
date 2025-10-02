@@ -22,7 +22,7 @@ I am a second-year student pursuing a Bachelor's degree in Software Engineering 
 
 ## 📂 Projects
 - **ZERO – AI Logistics on Edge (FPT Hackathon 2025)**  
-  🥇 First Prize | Team project applying AI at the edge  
+  🥇 Promising Award | Team project applying AI at the edge  
 
 - **Creative Software – Chemical Equation Balancing Tool (Young Informatics Contest)**  
   Co-developed software for automatic chemical equation balancing  
@@ -30,7 +30,7 @@ I am a second-year student pursuing a Bachelor's degree in Software Engineering 
 ---
 
 ## 🏆 Achievements
-- 🥇 **First Prize** – FPT University Hackathon 2025  
+- 🥇 **Promising Award** – FPT University Hackathon 2025  
 - 🎓 **Very Good Student Award** – Semester 1 (GPA 8.5) & Semester 2 (GPA 8.4)  
 - 🥈 **Second Prize** – Provincial Informatics Olympiad 2024  
 - 🎓 70% Tuition Scholarship – FPT University  
@@ -48,4 +48,5 @@ I am a second-year student pursuing a Bachelor's degree in Software Engineering 
 - 📧 Email: avatarstar1133@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com)  
 - 🖥️ [Portfolio Website](https://avatarstar1133.github.io/HuynhGiaHao-s-Website)  
-- 🐙 [GitHub](https://github.com/avatarstar1133)  
+- 🐙 [GitHub](https://github.com/avatarstar1133)
+- 👤 [Personal Website]: https://avatarstar1133.github.io/HuynhGiaHao-s-Website
