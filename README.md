@@ -49,4 +49,4 @@ I am a second-year student pursuing a Bachelor's degree in Software Engineering 
 - 💼 [LinkedIn](https://www.linkedin.com)  
 - 🖥️ [Portfolio Website](https://avatarstar1133.github.io/HuynhGiaHao-s-Website)  
 - 🐙 [GitHub](https://github.com/avatarstar1133)
-- 👤 [Personal Website]: https://avatarstar1133.github.io/HuynhGiaHao-s-Website
+- 👤 [Personal Website]: https://avatarstar1133.github.io/HuynhGiaHaoWebsite
