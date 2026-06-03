@@ -66,4 +66,4 @@ An engineering-minded Software Engineering student specializing in Computer Visi
 
 - **Email:** avatastar1133@gmail.com
 - **LinkedIn:** [Gia Hao Huynh](https://linkedin.com/in/giahuynhvin)
-- **Portfolio Website:** [Huynh Gia Hao Portfolio](https://avatarstar1133.github.io/HuynhGiaHao_Website)
+- **Portfolio Website:** [Huynh Gia Hao Portfolio](https://avatarstar1133.github.io/hafoharibo)
