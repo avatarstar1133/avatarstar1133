@@ -7,7 +7,7 @@ An engineering-minded Software Engineering student specializing in Computer Visi
 ## Tech Stack & Core Competencies
 
 - **Core Languages:** C/C++, Python (Production & Research), Java (OOP Paradigm), JavaScript
-- **AI & Computer Vision:** YOLOv8 - YOLOv11 (Object Detection/Tracking), ByteTrack, Open-World Object Detection (OWOD), Florence-2, OpenCV, Active Learning Pipelines
+- **AI & Computer Vision:** \`YOLOv11\`, \`ByteTrack\`, \`Open-World Object Detection (OWOD)\`, \`Florence-2\`, \`OpenCV\``
 - **Hardware & Edge Computing:** NVIDIA Jetson Nano, Drone Autonomous Systems, Linux Environment
 - **Software Engineering & Tools:** Object-Oriented Programming (OOP), Data Structures & Algorithms, Git Version Control, Clean Code Principles
 
@@ -65,5 +65,5 @@ An engineering-minded Software Engineering student specializing in Computer Visi
 ## Connect With Me
 
 - **Email:** avatastar1133@gmail.com
-- **LinkedIn:** [linkedin.com/in/giahaohuynh]
-- **Portfolio Website:** [avatarstar1133.github.io/hafoharibo]
+- **LinkedIn:** [Gia Hao Huynh](https://linkedin.com/in/giahuynhvin)
+- **Portfolio Website:** [Huynh Gia Hao Portfolio](https://avatarstar1133.github.io/HuynhGiaHao_Website)
