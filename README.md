@@ -4,7 +4,7 @@ An engineering-minded Software Engineering student specializing in Computer Visi
 
 ---
 
-## 🛠 Tech Stack & Core Competencies
+## Tech Stack & Core Competencies
 
 - **Core Languages:** C/C++, Python (Production & Research), Java (OOP Paradigm), JavaScript
 - **AI & Computer Vision:** YOLOv8 - YOLOv11 (Object Detection/Tracking), ByteTrack, Open-World Object Detection (OWOD), Florence-2, OpenCV, Active Learning Pipelines
